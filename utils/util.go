@@ -5,9 +5,9 @@ import "fmt"
 // SayHello ...
 func SayHello() {
 
-	fmt.Println("hello!!")
+	fmt.Println("hello!!?")
 }
 
 func SayGoodbye() {
-	fmt.Println("goodbye!!")
+	fmt.Println("goodbye!!?")
 }
